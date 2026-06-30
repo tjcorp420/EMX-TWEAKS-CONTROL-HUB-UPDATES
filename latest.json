@@ -1,10 +1,10 @@
 {
   "appId": "com.emxtweaks.controlhub",
   "name": "EMX Tweaks Control Hub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "channel": "stable",
   "releaseDate": "2026-06-30",
-  "changelog": "Initial public EMX Tweaks Control Hub release manifest.",
-  "downloadUrl": "https://github.com/tjcorp420/EMX-TWEAKS-CONTROL-HUB-UPDATES/releases/latest",
-  "releaseUrl": "https://github.com/tjcorp420/EMX-TWEAKS-CONTROL-HUB-UPDATES/releases/latest"
+  "changelog": "Hides raw update URLs, moves Activity Log into its own Settings tab, and keeps the right-side System tools clear.",
+  "downloadUrl": "https://github.com/tjcorp420/EMX-TWEAKS-CONTROL-HUB-UPDATES/releases/download/v1.0.1/EMX-Tweaks-Control-Hub-Setup-1.0.1-x64.exe",
+  "releaseUrl": "https://github.com/tjcorp420/EMX-TWEAKS-CONTROL-HUB-UPDATES/releases/tag/v1.0.1"
 }
