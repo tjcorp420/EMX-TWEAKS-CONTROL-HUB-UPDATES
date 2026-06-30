@@ -15,5 +15,11 @@ The app checks `latest.json`, compares `version` to its current app version, sho
 Example raw URL:
 
 ```text
-https://raw.githubusercontent.com/YOUR-GITHUB-NAME/emx-tweaks-control-hub-updates/main/latest.json
+https://raw.githubusercontent.com/tjcorp420/EMX-TWEAKS-CONTROL-HUB-UPDATES/main/latest.json
+```
+
+Release page:
+
+```text
+https://github.com/tjcorp420/EMX-TWEAKS-CONTROL-HUB-UPDATES/releases/latest
 ```
