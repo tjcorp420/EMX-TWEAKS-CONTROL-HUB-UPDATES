@@ -1,14 +1,14 @@
 {
   "appId": "com.emxtweaks.controlhub",
   "name": "EMX Tweaks Control Hub",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "channel": "stable",
   "releaseDate": "2026-06-30",
-  "changelog": "Installs latest app files from GitHub, verifies the update package, replaces the installed app files, and restarts automatically.",
+  "changelog": "Adds the glowing Install & Restart updater button, an animated update installer screen, and a package-based file update that verifies, installs, and restarts automatically.",
   "packageType": "zip",
-  "packageFileName": "EMX-Tweaks-Control-Hub-Update-1.0.3.zip",
-  "packageUrl": "https://github.com/tjcorp420/EMX-TWEAKS-CONTROL-HUB-UPDATES/releases/download/v1.0.3/EMX-Tweaks-Control-Hub-Update-1.0.3.zip",
-  "packageSha256": "104ac991924538820dc4466126e60080b301f6d06242f8ef6d22a5d867906fdb",
+  "packageFileName": "EMX-Tweaks-Control-Hub-Update-1.0.4.zip",
+  "packageUrl": "https://github.com/tjcorp420/EMX-TWEAKS-CONTROL-HUB-UPDATES/releases/download/v1.0.4/EMX-Tweaks-Control-Hub-Update-1.0.4.zip",
+  "packageSha256": "34bae681726bd734e0a7707dc96a7c30f76e6a460e09d7f03a356dfd8a36d1e6",
   "entryExe": "EMX Tweaks Control Hub.exe",
-  "releaseUrl": "https://github.com/tjcorp420/EMX-TWEAKS-CONTROL-HUB-UPDATES/releases/tag/v1.0.3"
+  "releaseUrl": "https://github.com/tjcorp420/EMX-TWEAKS-CONTROL-HUB-UPDATES/releases/tag/v1.0.4"
 }
